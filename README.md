@@ -1,3 +1,3 @@
 # eat-Lacto
 
-Is a demo repo
+Is a demo repo.. now the update goes this way...
